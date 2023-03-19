@@ -13,9 +13,9 @@ const App = () => {
 
     <Navbar/>
     <Hero/>
-  
+     
     </div>
-
+  
     </div>
 
     </BrowserRouter>
